@@ -33,4 +33,4 @@ To start the project, simply type the following command in the terminal:
 
 - Ensure you have Node.js and npm installed on your system before starting the project.
 - Verify that all dependencies have been installed correctly by running `npm install`.
-- Feel free to explore and use the API-People project! If you encounter issues or have suggestions for improvement, don't hesitate to contribute or get in touch with me!
+- If you encounter issues or have suggestions for improvement, don't hesitate to contribute or get in touch with me!
