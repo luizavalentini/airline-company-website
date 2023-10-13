@@ -15,3 +15,22 @@ If you want to run the project on your own computer, follow the steps below:
     ```
    git clone https://github.com/luizavalentini/airline-company-website.git
    ```
+### Installing Dependencies
+
+The project has some dependencies that need to be installed. Use the following command to install all dependencies:
+    ```
+   npm install
+    ```
+
+### Starting the Project
+
+To start the project, simply type the following command in the terminal:
+    ```
+   npm start
+    ```
+
+## Notes
+
+- Ensure you have Node.js and npm installed on your system before starting the project.
+- Verify that all dependencies have been installed correctly by running `npm install`.
+- Feel free to explore and use the API-People project! If you encounter issues or have suggestions for improvement, don't hesitate to contribute or get in touch with me!
