@@ -1,4 +1,4 @@
-# plane-website ✈️💻
+# airline-company-website ✈️💻
 
 ## Description
 This project is a static exploration dedicated to creating a website for a fictitious airline company. It involves a meticulous recreation of the airline's website design and layout, focusing solely on the visual aspects of the original site. Through this initiative, we aim to demonstrate the art of web design by faithfully mirroring the aesthetics and structure of the airline's website. It serves as an educational and creative endeavor to delve into and appreciate the intricacies of web design.
